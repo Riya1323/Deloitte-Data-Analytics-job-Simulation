@@ -5,7 +5,7 @@ This repository contains the data analytics tasks completed during the Deloitte 
 ## 📁 Project Structure
 * Deloitte_forage_completion_certificate.pdf - Official program completion certificate.
 * create equality class.png - Visual proof of the Power Query data transformation steps.
-* results.png - Mapped unhealthy machinery counts against specify factory locations to pinpoint critical maintenance triggers for the compilance team.
+* results.png - Built intuitive Power BI Bar Charts to analyze the count of unhealthy machine across different factories and devices types.
 * README.md - Project documentation and insights.
 
 ## 📊 Task 1: Machine Health & Exploratory Data Analysis (EDA)
